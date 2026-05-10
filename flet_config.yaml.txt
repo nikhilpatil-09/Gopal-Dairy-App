@@ -1,0 +1,4 @@
+display_name: Gopal Dairy
+product_name: gopal_dairy
+executable_name: gopaldairy
+bundle_id: com.nikhil.gopaldairy
